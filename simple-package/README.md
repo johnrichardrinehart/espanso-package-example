@@ -1,9 +1,9 @@
 ---
-package_name: "simple-package"
-package_title: "Simple Package"
-package_desc: "A simple package to say Hello World."
+package_name: "johnrichardrinehart"
+package_title: "espanso de John Rinehart"
+package_desc: "John Rinehart's custom espanso configuration"
 package_version: "0.1.0"
-package_author: "Federico Terzi"
-package_repo: "https://github.com/federico-terzi/espanso-package-example"
+package_author: "John Rinehart"
+package_repo: "https://github.com/johnrichardrinehart/espanso-package-example"
 ---
-A simple package to say "Hello World"
+John Rinehart's custom espanso configuration

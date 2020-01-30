@@ -1,8 +1,10 @@
-# Simple package
+# John Rinehart's custom espanso configuration
 
-name: simple-package 
+name: johnrichardrinehart
 parent: default
 
 matches:
-  - trigger: ":hw"
-    replace: "hello world"
+  - trigger: ":raison"
+    replace: "raison d'être"
+  - trigger: ":g@gh"
+    replace: "git@github.com:"
